@@ -1,8 +1,8 @@
 ## Kodluyoruz Bootcamp HW-4
 
-### Comment system with ReactJs
+### Comment system with React
 
-- I made a simple comment system with React.js. I transferred data from parent component to child components with props drilling. I made the design using Bootstrap.
+- I made a simple comment system with React. I transferred data from parent component to child components with props drilling. I made the design using Bootstrap.
 
 ### Live Demo :
 
