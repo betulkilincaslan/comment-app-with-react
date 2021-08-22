@@ -4,6 +4,10 @@
 
 - I made a simple comment system with React.js. I transferred data from parent component to child components with props drilling. I made the design using Bootstrap.
 
+### Live Demo :
+
+https://comment-app-with-react.netlify.app/
+
 ## Rules
 
 - Initially there are no comments and in this case "No comment yet" is output to the screen.
