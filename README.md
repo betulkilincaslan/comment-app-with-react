@@ -1,3 +1,17 @@
+## Kodluyoruz Bootcamp HW-4
+
+### Comment system with ReactJs
+
+- I made a simple comment system with React.js. I transferred data from parent component to child components with props drilling. I made the design using Bootstrap.
+
+## Rules
+
+- Initially there are no comments and in this case "No comment yet" is output to the screen.
+- The star level is between 1-5 and the initial state holding the vote status should be numeric and the default value should be 0.
+- Stars are required before adding a new comment. Otherwise "You must vote before commenting." An error message like this will be displayed.
+- The comment field cannot be empty and must be at least 3 characters. If the comment button is clicked while the comment input is empty, an error message such as "Cannot be empty" should be displayed. If the number of characters in the comment input is less than 3 characters, an error message such as "Your comment is too short" should be displayed.
+- When the relevant validations are provided, the new comment should be added as an object to the state of the array type containing the comments.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
